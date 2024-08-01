@@ -81,7 +81,7 @@ img{
     display: block;
     width: 500px;
     height: auto;
-    ;
+    border-radius: 15px;
 }
 
 form{
